@@ -1,33 +1,10 @@
 ---
 portmap:
-  thelounge:
-    - 9000
-
   nextcloud:
     - 8100
 
-  unms:
-    - 9443
-
-  usdn:
-    - 8443
-    - 6789
-    - 8843
-    - 8880
-    - 8080
-
   mariadb:
     - 3306
-  
-  webhook_serv:
-    - 5012
-  
-  deluged:
-    - 3769
-  
-  mongodb:
-    - 27017
-    - 27117
 
   shlink:
     - 8200
@@ -35,19 +12,6 @@ portmap:
   bepasty:
     - 8300
 
-  cocalc:
-    - 8400
-
   bitwarden:
     - 8500
     - 8512
-
-  esp_ota:
-    - 5051
-
-  gitea:
-    - 3000
-    - 3222
-
-  vernemq:
-    - 8883
