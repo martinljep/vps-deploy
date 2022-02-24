@@ -1,6 +1,6 @@
 ---
 - src: nickjj.acme_sh
-- src: duckle29.dhparam
+- src: martinljep.dhparam
 - src: nginxinc.nginx
 - src: geerlingguy.docker
 - src: jnv.unattended-upgrades
